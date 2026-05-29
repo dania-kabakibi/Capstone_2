@@ -1,7 +1,7 @@
 # Capstone 2: Business Analysis with Python
 
 ## Project Overview
-The goal of this project is to use Jupyter Notebook and Python libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn to analyze sales data and extract business insights about sales performance.
+The goal of this project is to use Jupyter Notebook and Python libraries Pandas, and Matplotlib to analyze sales data and extract business insights about sales performance.
 
 This analysis supports business decision-making by identifying:
 - Sales trends over time
