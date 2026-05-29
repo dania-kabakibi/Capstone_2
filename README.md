@@ -28,14 +28,12 @@ This project focuses on two territories in the Northeast region:
 ## Tools & Technologies
 - Jupyter Notebook
 - Python
-- NumPy
 - Pandas
 - Matplotlib
-- Scikit-learn
 - Git & GitHub
 
 ## Project Demo Video
-(10-minute project presentation link will be added here)
+https://drive.google.com/file/d/1B2s41ZNDWMMQUI1puaMUv-nCsjhm7kh8/view?usp=sharing
 
 ## Author
 Dania Kabakibi
